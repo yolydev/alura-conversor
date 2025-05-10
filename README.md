@@ -4,9 +4,11 @@
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/9cc08710-20eb-45e4-b3b6-e2f0cc247e83)
+![image](https://github.com/user-attachments/assets/a23b44cb-df59-4859-a773-f00fe6de4bd1)
 
-![image](https://github.com/user-attachments/assets/c66afc5b-e7ff-4e10-8b26-6e1c93b369bf)
+![image](https://github.com/user-attachments/assets/9b50a920-d8b3-42ad-928f-e798bd874596)
+
+
 </div>
 
 ## Obten tu API_KEY
